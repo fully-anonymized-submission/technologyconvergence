@@ -1,5 +1,5 @@
 ## Monitoring Transformative Technological Convergence Through LLM-Extracted Semantic Entity Triple Graph
-**Last update: 13.08.2025**
+**Last update: 06.03.2026**
 
 This repository belongs to the submission of the article "Monitoring Transformative Technological Convergence Through LLM-Extracted Semantic Entity Triple Graph". The code provides the full pipeline from raw arXiv pdf's or raw patents to processed entity triples of the shape (subject, predicate, object). The triples are extracted through a LLM.
 
